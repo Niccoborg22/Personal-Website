@@ -35,7 +35,7 @@
     "technologies": "Python | Pandas | Jupyter Notebook | MatPlotLib",
     "description": "This project, made together with a group, aimed at predicting the value of football players in the transfer market. We utilized a big dataset from the website TransferMarkt and runned a series of machine learning algorithms. We included a series of visualization techniques to show the market value over time.",
     "github": "https://github.com/Niccoborg22/Footbalue",
-    "deployed": "",
+    "deployed": "https://github.com/Niccoborg22/Footbalue/blob/main/football_transfer_prediction.ipynb",
     "bgcolor": "#f85781",
     "id": "4"
   },
