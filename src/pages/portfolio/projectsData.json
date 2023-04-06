@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Retail Dashboard Applicatoin",
+    "image": "./projectImages/bike.png",
+    "description": "I was responsible for the development and deployment of a web application. The architecture consists of having an API connected to a database that is used by a backend Flask application to render some HTML templates. Javascript has been used to display interesting KPIs and charts about the data.",
+    "technologies": "Flask | Flask-Rest-X | Javascript | HTML | CSS",
+    "github": "https://github.com/Niccoborg22/Retail_Dashboard_Application",
+    "deployed": "http://frontend-dot-retailcapstone.oa.r.appspot.com/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "HowToGeo",
+    "image": "./projectImages/weather.png",
+    "technologies": "Javascript | HTML | Google Maps API",
+    "description": "This website aims to help people choose which is the best travelling method available by providing them with the appropriate data to make an informed decision. In order to do so I used the Google Maps API and created a two pade HTML around it",
+    "github": "https://github.com/Niccoborg22/HowToGeo",
+    "deployed": "http://34.120.149.87/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Image Snap Shot",
+    "image": "./projectImages/team.png",
+    "technologies": "Typescript | React | Bootstrap ",
+    "description": "This website is a showcase of images built with typescript with React. The user is able to choose a topic of images to be broadcasted and the application will show him a series of images regarding that topic.",
+    "github": "https://github.com/Niccoborg22/Image-Snap-Shot",
+    "deployed": "",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "FootBalue",
+    "image": "./projectImages/quiz.png",
+    "technologies": "Python | Pandas | Jupyter Notebook | MatPlotLib",
+    "description": "This project, made together with a group, aimed at predicting the value of football players in the transfer market. We utilized a big dataset from the website TransferMarkt and runned a series of machine learning algorithms. We included a series of visualization techniques to show the market value over time.",
+    "github": "https://github.com/Niccoborg22/Footbalue",
+    "deployed": "",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+  {
+    "title": "Personal Website",
+    "image": "./projectImages/P1.png",
+    "description": "I built my personal website in React taking inspiration from Micheal Yeates' work. I built a 4 page website that shows who I am, what I have built and gives the user the possibility of contacting me.",
+    "technologies": "React | Javascript | Bootstrap",
+    "github": "",
+    "deployed": "",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  }
+]
