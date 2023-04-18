@@ -22,7 +22,7 @@
   {
     "title": "Image Snap Shot",
     "image": "./projectImages/team.png",
-    "technologies": "Typescript | React | Bootstrap ",
+    "technologies": "Typescript | React | JavaScript ",
     "description": "This website is a showcase of images built with typescript with React. The user is able to choose a topic of images to be broadcasted and the application will show him a series of images regarding that topic.",
     "github": "https://github.com/Niccoborg22/Image-Snap-Shot",
     "deployed": "https://github.com/Niccoborg22/Image-Snap-Shot#readme",
@@ -34,8 +34,8 @@
     "image": "./projectImages/P1.png",
     "description": "I built my personal website in React taking inspiration from Micheal Yeates' work. I built a 4 page website that shows who I am, what I have built and gives the user the possibility of contacting me.",
     "technologies": "React | Javascript | Bootstrap",
-    "github": "",
-    "deployed": "",
+    "github": "https://github.com/Niccoborg22/Personal-Website",
+    "deployed": "borgatoniccolo.com",
     "bgcolor": "#ffcc33",
     "id": "1"
   },
