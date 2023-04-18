@@ -25,7 +25,7 @@
     "technologies": "Typescript | React | Bootstrap ",
     "description": "This website is a showcase of images built with typescript with React. The user is able to choose a topic of images to be broadcasted and the application will show him a series of images regarding that topic.",
     "github": "https://github.com/Niccoborg22/Image-Snap-Shot",
-    "deployed": "",
+    "deployed": "https://github.com/Niccoborg22/Image-Snap-Shot#readme",
     "bgcolor": "#6c4bf4",
     "id": "3"
   },
